@@ -1,0 +1,1 @@
+github repo of the same code with instructions to install : https://github.com/HoneyPaptan/github-profile-analyzer
